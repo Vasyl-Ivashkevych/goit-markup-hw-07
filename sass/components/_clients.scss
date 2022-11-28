@@ -1,3 +1,7 @@
+.section__clients {
+  @include section;
+}
+
 .clients__title {
   margin-top: 0;
   margin-bottom: 50px;

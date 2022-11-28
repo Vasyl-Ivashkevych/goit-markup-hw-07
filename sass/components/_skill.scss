@@ -1,5 +1,5 @@
 .skill {
-  padding-bottom: 94px;
+  @include section(0, 94px);
 }
 
 .skill__title {

@@ -1,3 +1,7 @@
+.portfolio {
+  @include section;
+}
+
 .portfolio__btns-item {
   display: flex;
   justify-content: center;

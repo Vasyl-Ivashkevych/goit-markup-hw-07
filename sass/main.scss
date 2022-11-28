@@ -1,13 +1,13 @@
 //Util styles//
 @import './utils/variables';
 @import './utils/v-hidden';
+@import './utils/mixins';
 //Base styles//
 @import './base/base';
 @import './base/reset';
 //Components styles//
 @import './components/header';
 @import './components/logo';
-@import './components/section';
 @import './components/container';
 @import './components/button';
 @import './components/navigation';

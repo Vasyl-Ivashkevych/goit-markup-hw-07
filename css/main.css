@@ -99,11 +99,6 @@ img {
   color: var(--accent);
 }
 
-.section {
-  padding-top: 94px;
-  padding-bottom: 94px;
-}
-
 .container {
   margin-left: auto;
   margin-right: auto;
@@ -347,6 +342,11 @@ img {
   text-transform: uppercase;
 }
 
+.strengths {
+  padding-top: 94px;
+  padding-bottom: 94px;
+}
+
 .strengths__list {
   display: -webkit-box;
   display: -ms-flexbox;
@@ -393,6 +393,7 @@ img {
 }
 
 .skill {
+  padding-top: 0;
   padding-bottom: 94px;
 }
 
@@ -437,6 +438,8 @@ img {
 }
 
 .team {
+  padding-top: 94px;
+  padding-bottom: 94px;
   background-color: var(--section-bacground-color);
 }
 
@@ -522,6 +525,11 @@ img {
   background-color: var(--accent);
 }
 
+.section__clients {
+  padding-top: 94px;
+  padding-bottom: 94px;
+}
+
 .clients__title {
   margin-top: 0;
   margin-bottom: 50px;
@@ -556,6 +564,11 @@ img {
 .clients__link:hover, .clients__link:focus {
   fill: var(--accent);
   border: 1px solid var(--accent);
+}
+
+.portfolio {
+  padding-top: 94px;
+  padding-bottom: 94px;
 }
 
 .portfolio__btns-item {
