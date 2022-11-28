@@ -803,31 +803,26 @@ img {
   border: 1px solid rgba(255, 255, 255, 0.3);
   border-radius: 4px;
 }
-
 .form__input::-webkit-input-placeholder {
   font-size: 16px;
   line-height: 1.25;
   color: rgba(255, 255, 255, 0.6);
 }
-
 .form__input::-moz-placeholder {
   font-size: 16px;
   line-height: 1.25;
   color: rgba(255, 255, 255, 0.6);
 }
-
 .form__input:-ms-input-placeholder {
   font-size: 16px;
   line-height: 1.25;
   color: rgba(255, 255, 255, 0.6);
 }
-
 .form__input::-ms-input-placeholder {
   font-size: 16px;
   line-height: 1.25;
   color: rgba(255, 255, 255, 0.6);
 }
-
 .form__input::placeholder {
   font-size: 16px;
   line-height: 1.25;
@@ -990,7 +985,6 @@ img {
 .confidens__link {
   font-size: 14px;
   line-height: 1.71;
-  letter-spacing: 0.03em;
   -webkit-text-decoration-line: underline;
           text-decoration-line: underline;
   color: var(--accent);
@@ -999,6 +993,5 @@ img {
 .form__confidens-text {
   font-size: 14px;
   line-height: 1.71;
-  letter-spacing: 0.03em;
   color: var(--basic-text);
 }/*# sourceMappingURL=main.css.map */
